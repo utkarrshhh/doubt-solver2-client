@@ -59,6 +59,9 @@ img {
 .login__inputs {
   display: grid;
 }
+.login__form {
+  margin: auto;
+}
 .login__content {
   position: relative;
   height: 100vh;
